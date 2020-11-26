@@ -1,0 +1,7 @@
+{
+  "name": "pdfdemoionic5",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
