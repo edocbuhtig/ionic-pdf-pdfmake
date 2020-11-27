@@ -16,7 +16,7 @@ npx jetty
 npx cap sync android
 ```
 
-### 
+### Ionic Info
 ```
 Ionic:
 
