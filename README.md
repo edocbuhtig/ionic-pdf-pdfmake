@@ -33,3 +33,6 @@ Capacitor:
    @capacitor/core : 2.4.3
 ```
 
+### Full Video Tutorial
+[Create PDF File Ionic 5 Capacitor & pdfMake In 10 Minutes](https://youtu.be/PLeLzsMtI3g)
+
