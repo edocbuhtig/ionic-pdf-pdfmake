@@ -1,4 +1,4 @@
-### Create and Download PDF files using pdfmake for Web, PWA and Mobile Devices
+### Create and Download Ionic Capacitor PDF files using pdfmake for Web, PWA and Mobile Devices
 
 ### Install pdfmake NPM Package
 
